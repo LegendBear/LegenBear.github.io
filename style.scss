@@ -18,8 +18,8 @@ html {
 }
 
 body {
-	background: cream;
-  font: 18px/1.4 courier new;
+	background: #ffffcc;
+  font: 18px/1.4 courier ;
   color: #ff3300;
 }
 
@@ -31,8 +31,8 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: courier new;
-  color: black;
+  font-family: courier ;
+  color: $black;
   font-weight: bold;
 
   line-height: 1.7;
